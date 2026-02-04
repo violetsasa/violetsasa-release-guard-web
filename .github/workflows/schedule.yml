@@ -1,17 +1,17 @@
-name: Daily Release Guard Brief
+name: Daily Policy Brief
 
 on:
   schedule:
-    # Run every day at 09:00 UTC (17:00 Taiwan Time)
-    - cron: '0 9 * * *'
-  workflow_dispatch: # Allow manual trigger
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  check-and-notify:
+  update-news:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Needed to commit cache
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -25,15 +25,13 @@ jobs:
         run: |
           pip install -r automation/requirements.txt
 
-      - name: Run Daily Brief
-        env:
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      - name: Run Daily Brief Script
         run: python automation/daily_brief.py
 
-      - name: Commit updated cache
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update cache [skip ci]"
-          file_pattern: automation/cache.json
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/encyclopedia.md
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Daily Brief" && git push)
