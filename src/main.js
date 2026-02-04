@@ -5,7 +5,7 @@ import 'github-markdown-css/github-markdown-dark.css'
 const app = {
     async init() {
         try {
-            const response = await fetch('/encyclopedia.md');
+            const response = await fetch('./encyclopedia.md');
             if (!response.ok) throw new Error('Failed to load content');
             const navText = await response.text();
 
