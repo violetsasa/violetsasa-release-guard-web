@@ -1,5 +1,10 @@
 # Release Manager Encyclopedia (版本管理百科)
 
+
+## :newspaper: 最新平台動態 (2026-02-05)
+- [Apple] [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw)
+- [Apple] [Price updates for apps, In-App Purchases, and subscriptions](https://developer.apple.com/news/?id=gvnljl3f)
+- [Apple] [Update on age requirements for apps distributed in Texas](https://developer.apple.com/news/?id=8jzbigf4)
 這份文件旨在統整 iOS、Android、Steam、PC 等平台的發布管理知識，包含平台政策、送審注意事項、支付金流以及裝置優化經驗。
 
 ## 重要時程與規範 (Deadlines)
