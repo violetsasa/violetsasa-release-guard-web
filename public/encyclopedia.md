@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-02-14)
+- [Apple] [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4)
+- [Apple] [Swift Student Challenge submissions are now open](https://developer.apple.com/news/?id=f0xw4t5r)
+- [Apple] [Upcoming SDK minimum requirements](https://developer.apple.com/news/?id=ueeok6yw)
+
 ## :newspaper: 最新平台動態 (2026-02-13)
 - [Apple] [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4)
 - [Apple] [Swift Student Challenge submissions are now open](https://developer.apple.com/news/?id=f0xw4t5r)
