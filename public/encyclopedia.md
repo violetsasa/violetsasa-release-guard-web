@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-02-26)
+- [Apple] [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey)
+- [Apple] [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83)
+- [Apple] [Updated App Review Guidelines now available](https://developer.apple.com/news/?id=d75yllv4)
+
 ## :newspaper: 最新平台動態 (2026-02-25)
 - [Apple] [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey)
 - [Apple] [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83)
