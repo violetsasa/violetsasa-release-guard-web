@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-15)
+- [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
+- [Apple] [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey)
+- [Apple] [Get ready with the latest beta releases](https://developer.apple.com/news/?id=xgkk9w83)
+
 ## :newspaper: 最新平台動態 (2026-03-14)
 - [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
 - [Apple] [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey)
