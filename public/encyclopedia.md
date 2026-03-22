@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-22)
+- [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
+- [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
+- [Apple] [Age requirements for apps distributed in Brazil, Australia, Singapore, Utah, and Louisiana](https://developer.apple.com/news/?id=f5zj08ey)
+
 ## :newspaper: 最新平台動態 (2026-03-21)
 - [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
 - [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
