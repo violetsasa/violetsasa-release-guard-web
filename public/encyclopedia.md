@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-24)
+- [Apple] [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k)
+- [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
+- [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
+
 ## :newspaper: 最新平台動態 (2026-03-23)
 - [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
 - [Apple] [Adjustments to the China storefront of the App Store on iOS and iPadOS](https://developer.apple.com/news/?id=dadukodv)
