@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-26)
+- [Apple] [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55)
+- [Apple] [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k)
+- [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
+
 ## :newspaper: 最新平台動態 (2026-03-25)
 - [Apple] [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k)
 - [Apple] [Apple Developer is now on bilibili and LinkedIn](https://developer.apple.com/news/?id=yts4l6mh)
