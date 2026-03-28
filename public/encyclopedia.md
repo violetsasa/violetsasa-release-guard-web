@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-28)
+- [Apple] [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y)
+- [Apple] [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55)
+- [Apple] [WWDC26: June 8-12, 2026](https://developer.apple.com/news/?id=yi8qj25k)
+
 ## :newspaper: 最新平台動態 (2026-03-27)
 - [Apple] [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y)
 - [Apple] [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55)
