@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-03-31)
+- [Apple] [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn)
+- [Apple] [Get ready with the latest beta releases](https://developer.apple.com/news/?id=z8vzrgzx)
+- [Apple] [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y)
+
 ## :newspaper: 最新平台動態 (2026-03-30)
 - [Apple] [Update on regulated medical device apps in the European Economic Area, United Kingdom, and United States](https://developer.apple.com/news/?id=nyqbfz1y)
 - [Apple] [New In-App Purchase and subscription data now available in Analytics](https://developer.apple.com/news/?id=hh6v4b55)
