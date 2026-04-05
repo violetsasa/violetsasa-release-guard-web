@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-04-05)
+- [Apple] [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64)
+- [Apple] [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn)
+- [Apple] [Get ready with the latest beta releases](https://developer.apple.com/news/?id=z8vzrgzx)
+
 ## :newspaper: 最新平台動態 (2026-04-04)
 - [Apple] [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64)
 - [Apple] [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn)
