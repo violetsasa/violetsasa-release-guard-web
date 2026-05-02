@@ -1,6 +1,11 @@
 # Release Manager Encyclopedia (版本管理百科)
 
 
+## :newspaper: 最新平台動態 (2026-05-02)
+- [Apple] [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe)
+- [Apple] [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64)
+- [Apple] [Updated Apple Developer Program License Agreement now available](https://developer.apple.com/news/?id=fwswmjcn)
+
 ## :newspaper: 最新平台動態 (2026-05-01)
 - [Apple] [Now Available: Monthly Subscriptions with a 12-Month Commitment](https://developer.apple.com/news/?id=agq42lxe)
 - [Apple] [App Store expands support to 11 new languages](https://developer.apple.com/news/?id=97t4mt64)
